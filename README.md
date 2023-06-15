@@ -1,16 +1,15 @@
-### Hi there 👋
+### Hi there, I'm João Vitor Lemos! 👋
 
-<!--
-**Joaovitorlemos/Joaovitorlemos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+#### About
+I'm a Software Developer. And, I'm studing Web Development!
 
-Here are some ideas to get you started:
+#### Current Stack
+- ⚡️ Main language: `JavaScript`
+- 🧑‍💻 Frontend: `React.js`, `JavaScript`, `CSS3`, `HTML5`
+- 📡 Backend: `Node.js`, `JavaScript`
+- 🎨 Layout Design: `Figma`
+- 🔨 Version Code Control: `Git & Github`
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### Contacts
+- 📬 E-mail: joaovitorlemos2015@gmail.com
+- 👤 LinkedIn: https://www.linkedin.com/in/joaovitorlemos/
