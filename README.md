@@ -1,6 +1,6 @@
 ### Hi there, I'm João Vitor Lemos! 👋
 
-#### About
+#### About me
 I'm a Software Developer. And, I'm studing Web Development!
 
 #### Current Stack
